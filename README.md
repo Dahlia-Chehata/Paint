@@ -1,3 +1,2 @@
-# Paint
+# Paint application
 
-teammate : Omar Shawky
